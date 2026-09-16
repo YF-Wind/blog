@@ -7,7 +7,7 @@
 1. 设置Git用户名。
 
    ```shell
-   git config --global user.name "Your Name"`
+   git config --global user.name "Your Name"
    ```
 
 2. 设置Git邮箱。
